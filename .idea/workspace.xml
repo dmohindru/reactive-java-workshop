@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/javabrains.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="code.cleanup.on.save" value="true" />
-    <property name="full.screen.before.presentation.mode" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/au-pc-0126/Programming/reactive-java-workshop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="io.javabrains.reactiveworkshop" />
@@ -71,7 +69,7 @@
   <component name="RunManager" selected="Application.Exercise1">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise1" />
-      <module name="reactive-example" />
+      <module name="reactive-java-workshop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="io.javabrains.reactiveworkshop.*" />
@@ -152,8 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650213103534</updated>
+      <workItem from="1671507006540" duration="1739000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
